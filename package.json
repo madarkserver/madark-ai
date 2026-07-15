@@ -1,0 +1,13 @@
+{
+  "name": "madark-ai",
+  "version": "1.0.0",
+  "description": "Asistente oficial del servidor MADARK",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0"
+  }
+}
